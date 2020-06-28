@@ -10,3 +10,6 @@ The third sheet is the 'Sales Targets' which includes: month of order date, cate
 Goal
 Hired by 'Amazing Mart' they have provided a dataset for areas within the EU and have asked us to identify the sales teams progress over the course of 2011 to 2015.
 Please note: Amazing Mart is not a real company and this is dummy data that has been randomly generated.
+
+Tableau public:
+https://public.tableau.com/profile/gaurav.handa#!/vizhome/Project_Gaurav_Handa/Final
